@@ -1,6 +1,6 @@
 # My-Portfolio: Daniel Ruiz
 
-##My Projects
+## My Projects
 - [Resume]()
 - [My Archive]()
 - [MCAT]()
