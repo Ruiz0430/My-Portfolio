@@ -17,6 +17,8 @@ My name is Daniel Ruiz and I am an aspiring frontend software engineer. This rep
 - [Apparel Shop](https://github.com/Ruiz0430/Apparel-Shop.git)
 
 ## Demo
+
+### Home page
 https://github.com/user-attachments/assets/b56a6534-051e-4186-84c9-8a1dff3a8be6
 
 
