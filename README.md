@@ -22,5 +22,5 @@ https://github.com/user-attachments/assets/dcab4fed-73eb-4446-9a9d-62ad1518bdf4
 #### [click here to learn more](https://github.com/COP4655-MobileApps-Fall2023/cop4655-mobile-apps-final-project-group-17.git)
 
 ![Imgur](https://imgur.com/txJZUZY.gif)
-(https://youtu.be/V5nw6PvxgBc)
+[Click here to watch demo](https://youtu.be/V5nw6PvxgBc)
 
