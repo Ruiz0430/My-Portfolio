@@ -7,7 +7,7 @@
   - [MyArchive](MyArchive)
 
 ## Description
-Hello, my name is Daniel Ruiz, and I am an aspiring junior developer. I earned a Bachelor of Science in Computer Science from Florida Atlantic University in May 2024. My primary focus is on web and app development, especially front-end development, though I also have experience working with back-end tools such as SQL and MySQL relational databases. I’m passionate about building scalable, user-friendly applications and am eager to keep learning and growing as a developer.
+Hello, my name is Daniel Ruiz, and I am an aspiring junior developer. I earned a Bachelor of Science in Computer Science from Florida Atlantic University in May 2024. My primary focus is on web and app development, especially front-end development, though I also have experience working with back-end tools such as MySQL relational databases. I’m passionate about building scalable, user-friendly applications and am eager to keep learning and growing as a developer.
 
 ## Projects
 
