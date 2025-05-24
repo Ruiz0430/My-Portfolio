@@ -1,6 +1,6 @@
 # My-Portfolio
-![headshot](https://github.com/user-attachments/assets/b122cc3e-71e4-42e3-9096-790efe9e298f)
 
+<img width="513" alt="Screenshot 2025-05-24 at 7 49 34 PM" src="https://github.com/user-attachments/assets/079eb739-6b70-4d10-993b-5df982df6b2d" />
 
 ## Table of Contents
 - [Description](#Description)
