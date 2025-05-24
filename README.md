@@ -1,4 +1,6 @@
 # My-Portfolio
+![headshot](https://github.com/user-attachments/assets/b122cc3e-71e4-42e3-9096-790efe9e298f)
+
 
 ## Table of Contents
 - [Description](#Description)
