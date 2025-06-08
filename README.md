@@ -33,4 +33,9 @@ https://github.com/user-attachments/assets/dcab4fed-73eb-4446-9a9d-62ad1518bdf4
 ### [Click here to watch demo](https://youtu.be/V5nw6PvxgBc)
 
 ## Python (Data Analysis)
+### Audiobook Data Analysis
+<img width="1050" alt="Screenshot 2025-06-07 at 12 33 41 AM" src="https://github.com/user-attachments/assets/6a889c7a-7940-4a33-bfc4-9ea06c0a087e" />
+
+### [Click here to learn more](https://github.com/Ruiz0430/Audiobook-Data-Analysis.git)
+
 
