@@ -9,8 +9,10 @@
     - [Gemini-Clone](#Gemini-Clone)
   - [Swift](#Swift)
       - [MyArchive](MyArchive)
-  - [Python (Data Analysis)](#Python (Data Analysis))
+  - [Python (Data Analysis)](#Python)
       - [Audiobook Data Analysis](#Audiobook-Data-Analysis)
+  - [SQL](#SQL)
+      - [Powerlifting-Database](#Powerlifting-Database)
       
 ## Description
 Hello, my name is Daniel Ruiz, and I am an aspiring junior developer. I earned a Bachelor of Science in Computer Science from Florida Atlantic University in May 2024. My primary focus is on web and app development, especially front-end development, though I also have experience working with back-end tools such as MySQL relational databases. I’m passionate about building scalable, user-friendly applications and am eager to keep learning and growing as a developer.
@@ -33,10 +35,17 @@ https://github.com/user-attachments/assets/dcab4fed-73eb-4446-9a9d-62ad1518bdf4
 
 ### [Click here to watch demo](https://youtu.be/V5nw6PvxgBc)
 
-## Python (Data Analysis)
+## Python
 ### Audiobook Data Analysis
 <img width="1050" alt="Screenshot 2025-06-07 at 12 33 41 AM" src="https://github.com/user-attachments/assets/6a889c7a-7940-4a33-bfc4-9ea06c0a087e" />
 
 ### [Click here to learn more](https://github.com/Ruiz0430/Audiobook-Data-Analysis.git)
+
+## SQL
+### Powerlifting-Database
+![TermProject_Task2](https://github.com/user-attachments/assets/97ed4915-329a-4f95-92c1-62d3ce51ae87)
+
+### [Click here to learn more](https://github.com/Ruiz0430/Powerlifting-Database.git)
+
 
 
